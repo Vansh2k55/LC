@@ -7,4 +7,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Vansh2k55/LC/tree/master/1291-sequential-digits) |
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/Vansh2k55/LC/tree/master/0007-reverse-integer) |
 <!---LeetCode Topics End-->
