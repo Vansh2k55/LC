@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Vansh2k55/LC/tree/master/0007-reverse-integer) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Vansh2k55/LC/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Vansh2k55/LC/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Depth-First Search
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Vansh2k55/LC/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Vansh2k55/LC/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Array
 |  |
@@ -53,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/Vansh2k55/LC/tree/master/0200-number-of-islands) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Vansh2k55/LC/tree/master/0417-pacific-atlantic-water-flow) |
 | [0733-flood-fill](https://github.com/Vansh2k55/LC/tree/master/0733-flood-fill) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Vansh2k55/LC/tree/master/1979-find-greatest-common-divisor-of-array) |
 ## Matrix
 |  |
 | ------- |
