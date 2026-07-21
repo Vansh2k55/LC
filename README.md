@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/Vansh2k55/LC/tree/master/0417-pacific-atlantic-water-flow) |
 | [0547-number-of-provinces](https://github.com/Vansh2k55/LC/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Vansh2k55/LC/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/Vansh2k55/LC/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/Vansh2k55/LC/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Vansh2k55/LC/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0417-pacific-atlantic-water-flow](https://github.com/Vansh2k55/LC/tree/master/0417-pacific-atlantic-water-flow) |
 | [0547-number-of-provinces](https://github.com/Vansh2k55/LC/tree/master/0547-number-of-provinces) |
 | [0733-flood-fill](https://github.com/Vansh2k55/LC/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/Vansh2k55/LC/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/Vansh2k55/LC/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Vansh2k55/LC/tree/master/1971-find-if-path-exists-in-graph) |
 ## Union-Find
@@ -41,12 +43,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/Vansh2k55/LC/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Vansh2k55/LC/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Vansh2k55/LC/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/Vansh2k55/LC/tree/master/0785-is-graph-bipartite) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Vansh2k55/LC/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Vansh2k55/LC/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Vansh2k55/LC/tree/master/0547-number-of-provinces) |
+| [0785-is-graph-bipartite](https://github.com/Vansh2k55/LC/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/Vansh2k55/LC/tree/master/0841-keys-and-rooms) |
 | [1791-find-center-of-star-graph](https://github.com/Vansh2k55/LC/tree/master/1791-find-center-of-star-graph) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Vansh2k55/LC/tree/master/1971-find-if-path-exists-in-graph) |
