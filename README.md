@@ -82,4 +82,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Vansh2k55/LC/tree/master/0207-course-schedule) |
+## Linked List
+|  |
+| ------- |
+| [0086-partition-list](https://github.com/Vansh2k55/LC/tree/master/0086-partition-list) |
+## Two Pointers
+|  |
+| ------- |
+| [0086-partition-list](https://github.com/Vansh2k55/LC/tree/master/0086-partition-list) |
 <!---LeetCode Topics End-->
