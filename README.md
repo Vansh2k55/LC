@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0086-partition-list](https://github.com/Vansh2k55/LC/tree/master/0086-partition-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Vansh2k55/LC/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0203-remove-linked-list-elements](https://github.com/Vansh2k55/LC/tree/master/0203-remove-linked-list-elements) |
 ## Two Pointers
 |  |
 | ------- |
@@ -107,4 +108,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Vansh2k55/LC/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Recursion
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/Vansh2k55/LC/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
