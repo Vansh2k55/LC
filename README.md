@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Vansh2k55/LC/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0148-sort-list](https://github.com/Vansh2k55/LC/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/Vansh2k55/LC/tree/master/0203-remove-linked-list-elements) |
+| [0328-odd-even-linked-list](https://github.com/Vansh2k55/LC/tree/master/0328-odd-even-linked-list) |
 ## Two Pointers
 |  |
 | ------- |
