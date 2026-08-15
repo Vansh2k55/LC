@@ -1,0 +1,15 @@
+class Solution:
+    def countKConstraintSubstrings(self, s: str, k: int) -> int:
+        count=defaultdict(int)
+        left=0
+        ans=0
+        for right in range(len(s)):
+            count[s[right]]+=1
+            
+            while count['1']>k and count['0']>k:
+                count[s[left]]-=1
+                left+=1
+            ans+=right-left+1
+        return ans
+            
+        
