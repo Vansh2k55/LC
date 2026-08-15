@@ -156,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1839-longest-substring-of-all-vowels-in-order](https://github.com/Vansh2k55/LC/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Vansh2k55/LC/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Counting Sort
 |  |
@@ -176,4 +177,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Vansh2k55/LC/tree/master/0347-top-k-frequent-elements) |
+## Sliding Window
+|  |
+| ------- |
+| [1839-longest-substring-of-all-vowels-in-order](https://github.com/Vansh2k55/LC/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 <!---LeetCode Topics End-->
