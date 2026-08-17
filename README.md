@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Vansh2k55/LC/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Vansh2k55/LC/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/Vansh2k55/LC/tree/master/0113-path-sum-ii) |
 | [0130-surrounded-regions](https://github.com/Vansh2k55/LC/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Vansh2k55/LC/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/Vansh2k55/LC/tree/master/0207-course-schedule) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Vansh2k55/LC/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Vansh2k55/LC/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Vansh2k55/LC/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/Vansh2k55/LC/tree/master/0113-path-sum-ii) |
 | [0450-delete-node-in-a-bst](https://github.com/Vansh2k55/LC/tree/master/0450-delete-node-in-a-bst) |
 ## Binary Search Tree
 |  |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Vansh2k55/LC/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Vansh2k55/LC/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Vansh2k55/LC/tree/master/0112-path-sum) |
+| [0113-path-sum-ii](https://github.com/Vansh2k55/LC/tree/master/0113-path-sum-ii) |
 | [0450-delete-node-in-a-bst](https://github.com/Vansh2k55/LC/tree/master/0450-delete-node-in-a-bst) |
 ## Recursion
 |  |
@@ -191,4 +194,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/Vansh2k55/LC/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Vansh2k55/LC/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
+## Backtracking
+|  |
+| ------- |
+| [0113-path-sum-ii](https://github.com/Vansh2k55/LC/tree/master/0113-path-sum-ii) |
 <!---LeetCode Topics End-->
