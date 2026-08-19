@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/Vansh2k55/LC/tree/master/0207-course-schedule) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Vansh2k55/LC/tree/master/0417-pacific-atlantic-water-flow) |
 | [0547-number-of-provinces](https://github.com/Vansh2k55/LC/tree/master/0547-number-of-provinces) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Vansh2k55/LC/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0733-flood-fill](https://github.com/Vansh2k55/LC/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Vansh2k55/LC/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/Vansh2k55/LC/tree/master/0841-keys-and-rooms) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Vansh2k55/LC/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Vansh2k55/LC/tree/master/0113-path-sum-ii) |
 | [0450-delete-node-in-a-bst](https://github.com/Vansh2k55/LC/tree/master/0450-delete-node-in-a-bst) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Vansh2k55/LC/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Vansh2k55/LC/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Vansh2k55/LC/tree/master/0113-path-sum-ii) |
 | [0450-delete-node-in-a-bst](https://github.com/Vansh2k55/LC/tree/master/0450-delete-node-in-a-bst) |
+| [0671-second-minimum-node-in-a-binary-tree](https://github.com/Vansh2k55/LC/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 ## Recursion
 |  |
 | ------- |
