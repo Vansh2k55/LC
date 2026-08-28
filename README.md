@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0785-is-graph-bipartite](https://github.com/Vansh2k55/LC/tree/master/0785-is-graph-bipartite) |
 | [0841-keys-and-rooms](https://github.com/Vansh2k55/LC/tree/master/0841-keys-and-rooms) |
 | [0886-possible-bipartition](https://github.com/Vansh2k55/LC/tree/master/0886-possible-bipartition) |
+| [0897-increasing-order-search-tree](https://github.com/Vansh2k55/LC/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Vansh2k55/LC/tree/master/0938-range-sum-of-bst) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Vansh2k55/LC/tree/master/1971-find-if-path-exists-in-graph) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Vansh2k55/LC/tree/master/2415-reverse-odd-levels-of-binary-tree) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/Vansh2k55/LC/tree/master/0450-delete-node-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/Vansh2k55/LC/tree/master/0513-find-bottom-left-tree-value) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Vansh2k55/LC/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0897-increasing-order-search-tree](https://github.com/Vansh2k55/LC/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Vansh2k55/LC/tree/master/0938-range-sum-of-bst) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Vansh2k55/LC/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Binary Search Tree
@@ -146,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Vansh2k55/LC/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vansh2k55/LC/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0450-delete-node-in-a-bst](https://github.com/Vansh2k55/LC/tree/master/0450-delete-node-in-a-bst) |
+| [0897-increasing-order-search-tree](https://github.com/Vansh2k55/LC/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Vansh2k55/LC/tree/master/0938-range-sum-of-bst) |
 ## Binary Tree
 |  |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0450-delete-node-in-a-bst](https://github.com/Vansh2k55/LC/tree/master/0450-delete-node-in-a-bst) |
 | [0513-find-bottom-left-tree-value](https://github.com/Vansh2k55/LC/tree/master/0513-find-bottom-left-tree-value) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Vansh2k55/LC/tree/master/0671-second-minimum-node-in-a-binary-tree) |
+| [0897-increasing-order-search-tree](https://github.com/Vansh2k55/LC/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Vansh2k55/LC/tree/master/0938-range-sum-of-bst) |
 | [2415-reverse-odd-levels-of-binary-tree](https://github.com/Vansh2k55/LC/tree/master/2415-reverse-odd-levels-of-binary-tree) |
 ## Recursion
@@ -223,4 +227,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0113-path-sum-ii](https://github.com/Vansh2k55/LC/tree/master/0113-path-sum-ii) |
+## Stack
+|  |
+| ------- |
+| [0897-increasing-order-search-tree](https://github.com/Vansh2k55/LC/tree/master/0897-increasing-order-search-tree) |
 <!---LeetCode Topics End-->
