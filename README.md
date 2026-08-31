@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Vansh2k55/LC/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/Vansh2k55/LC/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Vansh2k55/LC/tree/master/0200-number-of-islands) |
 | [0347-top-k-frequent-elements](https://github.com/Vansh2k55/LC/tree/master/0347-top-k-frequent-elements) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Vansh2k55/LC/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/Vansh2k55/LC/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Vansh2k55/LC/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vansh2k55/LC/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -145,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search Tree
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Vansh2k55/LC/tree/master/0074-search-a-2d-matrix) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Vansh2k55/LC/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vansh2k55/LC/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0450-delete-node-in-a-bst](https://github.com/Vansh2k55/LC/tree/master/0450-delete-node-in-a-bst) |
