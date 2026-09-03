@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Vansh2k55/LC/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Vansh2k55/LC/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Vansh2k55/LC/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Vansh2k55/LC/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Vansh2k55/LC/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Vansh2k55/LC/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Vansh2k55/LC/tree/master/3731-find-missing-elements) |
+| [3876-construct-uniform-parity-array-ii](https://github.com/Vansh2k55/LC/tree/master/3876-construct-uniform-parity-array-ii) |
 ## Matrix
 |  |
 | ------- |
