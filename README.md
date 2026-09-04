@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Vansh2k55/LC/tree/master/0628-maximum-product-of-three-numbers) |
 | [0733-flood-fill](https://github.com/Vansh2k55/LC/tree/master/0733-flood-fill) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vansh2k55/LC/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1480-running-sum-of-1d-array](https://github.com/Vansh2k55/LC/tree/master/1480-running-sum-of-1d-array) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Vansh2k55/LC/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Vansh2k55/LC/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Vansh2k55/LC/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -236,4 +237,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0897-increasing-order-search-tree](https://github.com/Vansh2k55/LC/tree/master/0897-increasing-order-search-tree) |
+## Prefix Sum
+|  |
+| ------- |
+| [1480-running-sum-of-1d-array](https://github.com/Vansh2k55/LC/tree/master/1480-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
