@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Vansh2k55/LC/tree/master/0007-reverse-integer) |
+| [0523-continuous-subarray-sum](https://github.com/Vansh2k55/LC/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vansh2k55/LC/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Vansh2k55/LC/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Vansh2k55/LC/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Vansh2k55/LC/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vansh2k55/LC/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/Vansh2k55/LC/tree/master/0417-pacific-atlantic-water-flow) |
+| [0523-continuous-subarray-sum](https://github.com/Vansh2k55/LC/tree/master/0523-continuous-subarray-sum) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vansh2k55/LC/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/Vansh2k55/LC/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Vansh2k55/LC/tree/master/0733-flood-fill) |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Vansh2k55/LC/tree/master/0347-top-k-frequent-elements) |
+| [0523-continuous-subarray-sum](https://github.com/Vansh2k55/LC/tree/master/0523-continuous-subarray-sum) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Vansh2k55/LC/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Vansh2k55/LC/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Vansh2k55/LC/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -241,6 +244,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0523-continuous-subarray-sum](https://github.com/Vansh2k55/LC/tree/master/0523-continuous-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/Vansh2k55/LC/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Vansh2k55/LC/tree/master/1480-running-sum-of-1d-array) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/Vansh2k55/LC/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
