@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Vansh2k55/LC/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/Vansh2k55/LC/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Vansh2k55/LC/tree/master/0733-flood-fill) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Vansh2k55/LC/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vansh2k55/LC/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/Vansh2k55/LC/tree/master/1480-running-sum-of-1d-array) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Vansh2k55/LC/tree/master/1926-nearest-exit-from-entrance-in-maze) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Vansh2k55/LC/tree/master/0523-continuous-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/Vansh2k55/LC/tree/master/0724-find-pivot-index) |
+| [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Vansh2k55/LC/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Vansh2k55/LC/tree/master/1480-running-sum-of-1d-array) |
 ## Pigeonhole Principle
 |  |
