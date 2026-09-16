@@ -102,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Vansh2k55/LC/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1953-maximum-number-of-weeks-for-which-you-can-work](https://github.com/Vansh2k55/LC/tree/master/1953-maximum-number-of-weeks-for-which-you-can-work) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Vansh2k55/LC/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2561-rearranging-fruits](https://github.com/Vansh2k55/LC/tree/master/2561-rearranging-fruits) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Vansh2k55/LC/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Vansh2k55/LC/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Vansh2k55/LC/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vansh2k55/LC/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vansh2k55/LC/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vansh2k55/LC/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [2561-rearranging-fruits](https://github.com/Vansh2k55/LC/tree/master/2561-rearranging-fruits) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Vansh2k55/LC/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Vansh2k55/LC/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3731-find-missing-elements](https://github.com/Vansh2k55/LC/tree/master/3731-find-missing-elements) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Vansh2k55/LC/tree/master/0347-top-k-frequent-elements) |
 | [0523-continuous-subarray-sum](https://github.com/Vansh2k55/LC/tree/master/0523-continuous-subarray-sum) |
+| [2561-rearranging-fruits](https://github.com/Vansh2k55/LC/tree/master/2561-rearranging-fruits) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Vansh2k55/LC/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Vansh2k55/LC/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Vansh2k55/LC/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -264,4 +267,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1953-maximum-number-of-weeks-for-which-you-can-work](https://github.com/Vansh2k55/LC/tree/master/1953-maximum-number-of-weeks-for-which-you-can-work) |
+| [2561-rearranging-fruits](https://github.com/Vansh2k55/LC/tree/master/2561-rearranging-fruits) |
 <!---LeetCode Topics End-->
