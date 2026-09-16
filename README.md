@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/Vansh2k55/LC/tree/master/1480-running-sum-of-1d-array) |
 | [1854-maximum-population-year](https://github.com/Vansh2k55/LC/tree/master/1854-maximum-population-year) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Vansh2k55/LC/tree/master/1926-nearest-exit-from-entrance-in-maze) |
+| [1953-maximum-number-of-weeks-for-which-you-can-work](https://github.com/Vansh2k55/LC/tree/master/1953-maximum-number-of-weeks-for-which-you-can-work) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Vansh2k55/LC/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Vansh2k55/LC/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Vansh2k55/LC/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -259,4 +260,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/Vansh2k55/LC/tree/master/0523-continuous-subarray-sum) |
+## Greedy
+|  |
+| ------- |
+| [1953-maximum-number-of-weeks-for-which-you-can-work](https://github.com/Vansh2k55/LC/tree/master/1953-maximum-number-of-weeks-for-which-you-can-work) |
 <!---LeetCode Topics End-->
