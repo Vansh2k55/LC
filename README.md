@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vansh2k55/LC/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Vansh2k55/LC/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Vansh2k55/LC/tree/master/1480-running-sum-of-1d-array) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vansh2k55/LC/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1854-maximum-population-year](https://github.com/Vansh2k55/LC/tree/master/1854-maximum-population-year) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/Vansh2k55/LC/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1953-maximum-number-of-weeks-for-which-you-can-work](https://github.com/Vansh2k55/LC/tree/master/1953-maximum-number-of-weeks-for-which-you-can-work) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0897-increasing-order-search-tree](https://github.com/Vansh2k55/LC/tree/master/0897-increasing-order-search-tree) |
 | [0938-range-sum-of-bst](https://github.com/Vansh2k55/LC/tree/master/0938-range-sum-of-bst) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Vansh2k55/LC/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vansh2k55/LC/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 ## Binary Tree
 |  |
 | ------- |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Vansh2k55/LC/tree/master/0347-top-k-frequent-elements) |
 | [0523-continuous-subarray-sum](https://github.com/Vansh2k55/LC/tree/master/0523-continuous-subarray-sum) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Vansh2k55/LC/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vansh2k55/LC/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [2561-rearranging-fruits](https://github.com/Vansh2k55/LC/tree/master/2561-rearranging-fruits) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Vansh2k55/LC/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Vansh2k55/LC/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -246,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Vansh2k55/LC/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vansh2k55/LC/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/Vansh2k55/LC/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Vansh2k55/LC/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Vansh2k55/LC/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
@@ -264,6 +268,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/Vansh2k55/LC/tree/master/0724-find-pivot-index) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Vansh2k55/LC/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Vansh2k55/LC/tree/master/1480-running-sum-of-1d-array) |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vansh2k55/LC/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1854-maximum-population-year](https://github.com/Vansh2k55/LC/tree/master/1854-maximum-population-year) |
 ## Pigeonhole Principle
 |  |
