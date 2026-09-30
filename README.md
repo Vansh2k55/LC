@@ -215,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vansh2k55/LC/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/Vansh2k55/LC/tree/master/1839-longest-substring-of-all-vowels-in-order) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Vansh2k55/LC/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Vansh2k55/LC/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0897-increasing-order-search-tree](https://github.com/Vansh2k55/LC/tree/master/0897-increasing-order-search-tree) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vansh2k55/LC/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -286,4 +288,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Vansh2k55/LC/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [3524-find-x-value-of-array-i](https://github.com/Vansh2k55/LC/tree/master/3524-find-x-value-of-array-i) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vansh2k55/LC/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
