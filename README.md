@@ -96,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/Vansh2k55/LC/tree/master/0628-maximum-product-of-three-numbers) |
 | [0724-find-pivot-index](https://github.com/Vansh2k55/LC/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Vansh2k55/LC/tree/master/0733-flood-fill) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/Vansh2k55/LC/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Vansh2k55/LC/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vansh2k55/LC/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Vansh2k55/LC/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Vansh2k55/LC/tree/master/0347-top-k-frequent-elements) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/Vansh2k55/LC/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Vansh2k55/LC/tree/master/0628-maximum-product-of-three-numbers) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/Vansh2k55/LC/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Vansh2k55/LC/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2561-rearranging-fruits](https://github.com/Vansh2k55/LC/tree/master/2561-rearranging-fruits) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Vansh2k55/LC/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -226,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Vansh2k55/LC/tree/master/0347-top-k-frequent-elements) |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/Vansh2k55/LC/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1854-maximum-population-year](https://github.com/Vansh2k55/LC/tree/master/1854-maximum-population-year) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Vansh2k55/LC/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Hash Table
@@ -283,6 +286,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0945-minimum-increment-to-make-array-unique](https://github.com/Vansh2k55/LC/tree/master/0945-minimum-increment-to-make-array-unique) |
 | [1953-maximum-number-of-weeks-for-which-you-can-work](https://github.com/Vansh2k55/LC/tree/master/1953-maximum-number-of-weeks-for-which-you-can-work) |
 | [2561-rearranging-fruits](https://github.com/Vansh2k55/LC/tree/master/2561-rearranging-fruits) |
 ## Dynamic Programming
