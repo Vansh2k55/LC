@@ -225,6 +225,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0791-custom-sort-string](https://github.com/Vansh2k55/LC/tree/master/0791-custom-sort-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vansh2k55/LC/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/Vansh2k55/LC/tree/master/1839-longest-substring-of-all-vowels-in-order) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Vansh2k55/LC/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/Vansh2k55/LC/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Vansh2k55/LC/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Vansh2k55/LC/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Vansh2k55/LC/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/Vansh2k55/LC/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
 | [1839-longest-substring-of-all-vowels-in-order](https://github.com/Vansh2k55/LC/tree/master/1839-longest-substring-of-all-vowels-in-order) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Vansh2k55/LC/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Vansh2k55/LC/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3258-count-substrings-that-satisfy-k-constraint-i](https://github.com/Vansh2k55/LC/tree/master/3258-count-substrings-that-satisfy-k-constraint-i) |
 ## Backtracking
