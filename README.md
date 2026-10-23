@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Vansh2k55/LC/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Vansh2k55/LC/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3524-find-x-value-of-array-i](https://github.com/Vansh2k55/LC/tree/master/3524-find-x-value-of-array-i) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Vansh2k55/LC/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Vansh2k55/LC/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/Vansh2k55/LC/tree/master/3731-find-missing-elements) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Vansh2k55/LC/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -308,4 +309,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/Vansh2k55/LC/tree/master/0022-generate-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Vansh2k55/LC/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/Vansh2k55/LC/tree/master/3644-maximum-k-to-sort-a-permutation) |
 <!---LeetCode Topics End-->
